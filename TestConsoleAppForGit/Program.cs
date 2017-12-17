@@ -16,6 +16,8 @@ namespace TestConsoleAppForGit
 
             // This is a test 3rd time changes.
 
+            // I have created another branch feature 1.1
+
         }
     }
 }

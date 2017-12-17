@@ -11,6 +11,9 @@ namespace TestConsoleAppForGit
         static void Main(string[] args)
         {
             // This is a test line 1.
+
+            // This is a test 2nd time changes.
+
         }
     }
 }

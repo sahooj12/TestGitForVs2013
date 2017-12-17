@@ -14,6 +14,8 @@ namespace TestConsoleAppForGit
 
             // This is a test 2nd time changes.
 
+            // This is a test 3rd time changes.
+
         }
     }
 }
